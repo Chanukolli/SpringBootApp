@@ -9,6 +9,7 @@
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
 * [Project Demonstration](#Project-Demonstration-video)
+* [Web App Link](#Web-App-Link)
 
 
 ## General Information
@@ -50,4 +51,6 @@
 - This project was inspired by our learnings from the internship.
 - This project was based on [this dataset](https://https://github.com/tesseract-ocr/tessdata).
 ## Project demonstration video
--[click here](https://drive.google.com/file/d/1diwYwsbmizCj2S2llHPpS5d3HT72O-xt/view?usp=sharing)
+- [click here](https://drive.google.com/file/d/1diwYwsbmizCj2S2llHPpS5d3HT72O-xt/view?usp=sharing)
+## Web App Link
+- [cilck here](https://smartid-project.herokuapp.com/)
